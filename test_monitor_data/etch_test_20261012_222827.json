@@ -1,0 +1,52 @@
+{
+  "started_at": "2026-10-12T22:28:27+08:00",
+  "csv_file": "C:\\Users\\yuze wu\\Desktop\\QTF\\\u7535\u5316\u5b66\u6cd5\u523b\u8680\u94a8\u4e1d_SPM_Q PLUS\u9488\u5c16\\code\\test_monitor_data\\etch_test_20261012_222827.csv",
+  "plot_file": "C:\\Users\\yuze wu\\Desktop\\QTF\\\u7535\u5316\u5b66\u6cd5\u523b\u8680\u94a8\u4e1d_SPM_Q PLUS\u9488\u5c16\\code\\test_monitor_data\\etch_test_20261012_222827.png",
+  "config": {
+    "motor_port": "COM5",
+    "k2400_addr": "GPIB0::24::INSTR",
+    "voltage": "5.0",
+    "nplc": "None",
+    "sample_interval": "0.3",
+    "target_depth_mm": "1.0",
+    "immersion_speed": "1500",
+    "settle_seconds": "2.0",
+    "monitor_seconds": "0.0",
+    "search_timeout": "60.0",
+    "max_search_mm": "5.0",
+    "baseline_samples": "20",
+    "search_poll": "0.3",
+    "contact_step_pulses": "160",
+    "contact_speed": "1000",
+    "contact_move_interval": "0.35",
+    "liquid_min_ua": "0.0",
+    "liquid_rise_ua": "0.2",
+    "liquid_confirm_samples": "3",
+    "max_query_errors": "1",
+    "retract_mm": "5.0",
+    "retract_speed": "1500",
+    "output_dir": "C:\\Users\\yuze wu\\Desktop\\QTF\\\u7535\u5316\u5b66\u6cd5\u523b\u8680\u94a8\u4e1d_SPM_Q PLUS\u9488\u5c16\\code\\test_monitor_data",
+    "no_retract": "False",
+    "no_plot": "False"
+  },
+  "contact": {
+    "elapsed_s": 19.281000000002678,
+    "air_baseline_a": 4.3142245e-10,
+    "threshold_a": 2.0043142245e-07,
+    "contact_current_a": 0.001100266
+  },
+  "monitor_start_elapsed_s": 21.45300000000134,
+  "monitor_duration_s": null,
+  "stop_reason": "keyboard_interrupt",
+  "error": null,
+  "finished_at": "2026-10-12T22:29:29+08:00",
+  "sample_count": 203,
+  "valid_sample_count": 203,
+  "sample_counts_by_phase": {
+    "air_baseline": 20,
+    "liquid_search": 44,
+    "immersion_settle": 8,
+    "monitor": 131
+  },
+  "observed_monitor_rate_hz": 3.2383259585196567
+}

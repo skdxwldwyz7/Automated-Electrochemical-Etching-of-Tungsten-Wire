@@ -1,0 +1,4 @@
+﻿sample_index,elapsed_s,wall_time,current_A,current_mA,phase,status,error
+0,0.235000000,2026-10-17T20:05:51.267+08:00,1.291059e-07,0.0001291059,air_baseline,ok,
+1,0.625000000,2026-10-17T20:05:51.653+08:00,1.257283e-07,0.0001257283,air_baseline,ok,
+2,1.016000000,2026-10-17T20:05:52.043+08:00,1.189741e-07,0.0001189741,air_baseline,ok,
